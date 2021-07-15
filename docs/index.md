@@ -1,89 +1,68 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Alex Martinez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Alex Martinez
+Aspiring Data Scientist 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="alexdan9430@gmail.com">alexdan9430@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/alex-martinez-7047ab1a0/">LinkedIn</a>
+| <a href="https://github.com/Admar17">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2020 - 2021`
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Data Science Major, Economics Minor
+- 3.9 GPA
 
+## Work Experience
 
-## Related Experience
+`June 2021 - August 2021`
+__The Federal Reserve Bank of Dallas__, Dallas, TX
 
-### Internships
+-	Create and Manage a Tableau Dashboard that is used by the 3 Administrators of Treasury Services
+-	Produce and Publish SQL views for Lower and Min Management within Treasury Services
+-	Collaborated with Data Management and Accountability Office to Help Develop Data Practice and Procedures 
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`December 2020 - April 2021`
+__BYU-Idaho Career Center__, Data Analyst
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+-	Independently Built Data Visualizations and Dashboard Interfaces with R Shiny
+-	Evaluated Text Data with Natural Language Processing and Developed Tools to Extract Like Responses
+-	Developed and Evaluated Statistical Regression Models on Student Engagement
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`January 2021 – April 2021`
+__Good2Go__, Statistical Consulting
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+-	Automated Feature Extraction by Inputting Latitude and Longitude Coordinates
+-	Collaborated on a Regression Model to Predict Fuel Sales with a 10% Error
+-	Extracted Feature Importance of Machine Learning Models
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+## Programming and Analytics Experience 
+-	Analyzed and Consulted with a Local Dentistry Practice on Insurance Cost and Claims using R and Various R Packages
+-	Collaborated in Various Settings to Work with Python for Data Analysis Projects including k-means cluster, decision tree modeling, and importing and analysis data from the Federal Reserve Economic Database
+-	Member of School's Data Science Society and Economics Society
+-	Extracted Insights using PySpark and Natural Language Processing Toosl
+-	Co-Developed an Economic Paper on Immigration within the United States with Latex
+-	Studied the Relationship Between Different Economic Variables to Test Linear Regression Forecasting with Wages in R
+-	Studied COVID data and GDP decrease data with visualizations and dashboards created in Tableau
+-	Tested and Analyzed Statistical Significance and Trends with Personal Running Data in R
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
